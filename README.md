@@ -1,4 +1,6 @@
+![https://www.normandcode.com](https://raw.githubusercontent.com/Nor-Mand/Nor-Mand/main/logo_sm.png)
 ### Hi there 👋
+I am a person who is passionate about acquiring new knowledge, I believe that challenges are the best way to gain experience. Throughout my work I have evolved as a professional and person, always turning my failures into what my strengths are today.
 
 <!--
 **Nor-Mand/Nor-Mand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
