@@ -1,4 +1,4 @@
-![https://www.normandcode.com](https://raw.githubusercontent.com/Nor-Mand/Nor-Mand/main/logo_sm.png)
+![https://www.normandcode.com](https://raw.githubusercontent.com/Nor-Mand/Nor-Mand/main/logotipo.png)
 ### Hi there 👋
 I am a person who is passionate about acquiring new knowledge, I believe that challenges are the best way to gain experience. Throughout my work I have evolved as a professional and person, always turning my failures into what my strengths are today.
 
