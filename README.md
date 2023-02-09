@@ -1,6 +1,6 @@
 ![https://www.normandcode.com](https://raw.githubusercontent.com/Nor-Mand/Nor-Mand/main/logotipo.png)
 ### Hi there 👋
-I am a person who is passionate about acquiring new knowledge, I believe that challenges are the best way to gain experience. Throughout my work I have evolved as a professional and person, always turning my failures into what my strengths are today.
+Good experience with continuous integration using full stack technologies. Implementing application Open source. Experienced in creating and maintaining enterprise-level web applications with the team. Ability to independently and proactively problem solve. Strong organizational skills to effectively manage multiple tasks in a timely manner. Eager to learn and develop with new technologies, Excellent Interpersonal and communication skills.
 
 I'm a developer based in Cork, Ireland. I like to be involved in the tasks to create testing, debug, and deploy application.
 
@@ -37,6 +37,13 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
+
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
+
+### API's
+[![FastApi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)]()
+[![DjangoRest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)]()
 
 ### Databases
 [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
