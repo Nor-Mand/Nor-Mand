@@ -1,7 +1,7 @@
 ![https://www.normandcode.com](https://raw.githubusercontent.com/Nor-Mand/Nor-Mand/main/logotipo.png)
 ### Hi there 👋
 
-I'm a developer based in Cork, Ireland. I like to be involved in the tasks to create testing, debug, and deploy application.
+I'm a  Software developer. I like to be involved in the tasks to create testing, debug, and deploy application.
 
 Good experience with continuous integration using full stack technologies. Implementing application Open source. Experienced in creating and maintaining enterprise-level web applications with the team. Ability to independently and proactively problem solve. Strong organizational skills to effectively manage multiple tasks in a timely manner. Eager to learn and develop with new technologies, Excellent Interpersonal and communication skills.
 
